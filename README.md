@@ -1,4 +1,4 @@
-# Automatic Speech Recognition using Self-Supervised Approaches
+# ASR using Self-Supervised Approaches for rare languages
 
 Research on automatic speech recognition has seen great advances and changes in recent years. Building on a long history of research both in signal processing and in statistical learning, deep neural-network based systems now achieve performances on par with, or nearing that of human transcriptors fluent in the language at stake. Most recently, multiple approaches using self-supervised learning have come forward, with results defining the current state-of-the-art in speech recognition systems. One crucial component in these systems is their ability to leverage large quantities of unlabelled data to build meaningful representations of speech signals.
 
